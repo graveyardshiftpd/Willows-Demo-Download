@@ -1,0 +1,82 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,black>
+CREDITS
+
+\c[2]"A Graveyard Shift Production"
+
+\c[2]Directed by Azrealm
+
+\c[2]Art Director/Lead Artist
+Azrealm
+
+\c[2]Art Team
+Azrealm 			CG artist, Bust Artist, Background Artist, Sprite Artist
+Hael 				Bust Artist
+Obcerd 				Background Artist
+Crank 				CG Artist
+Ame-VN 				CG colorist
+SkottB 				Background Artist
+NugNug 				CG Artist
+Loverr 				CG Artist
+
+\c[2]Supervising Writer
+Anise
+
+\c[2]Writing Team
+Anise
+SkottB
+Azrealm
+Literally Me
+Boneguard
+Eldritch Elia
+
+\c[2]Writing team support
+Palette
+
+\c[2]Proofreader
+Xoren MoonBeam
+
+\c[2]Lead Programmer
+Scaltrox
+
+\c[2]Coding Team
+Anise
+Literally Me
+Flamer13
+Scaltrox
+Nurse Swerve
+
+\c[2]Coding team support
+SkottB
+
+\c[2]Music Director/Lead Musician
+Xoren Moonbeam
+
+A special thanks to Ozma, our first donor on Ko-Fi :)
+
+\c[2]Engine
+Degica
+RPG Maker MV
+
+\c[2]SFX
+Karl Casey - White Bat Audio
+
+\c[2]Plugin Programmers
+Yanfly Engine Plugins
+MushroomCake28
+Galv
+SumRndmDde
+SangHendrix
+Irina
+Hime
+Iavra
+biud436
+Hudell
+Tsukimi
+Pheonix KageDesu
+Fallen Angel Olivia
+Jason R. Godding
+
+</block>

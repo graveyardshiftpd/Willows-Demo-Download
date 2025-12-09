@@ -1,0 +1,19 @@
+CGs currently missing
+- Scene 5
+   - After Scene 5 Image 2, two cgs seem to be missing (for lines Maria: "...." 
+     & Matthew: "It should be fine, I'm sure...")
+
+   - CGs during interaction with Customer asking if Matthew is alright
+     (script indicates there's 3 cg's here)
+
+   Note: Scene 5 folder is missing 4 images it seems, skips from image 2 to 6
+
+- Scene 6
+   - Intro scene of Matti outside seems to be missing one cg (script calls for 6 images, only 5 provided)
+
+- Scene 7
+   - 7 cgs currently missing (think these are in mastering)
+
+- Scene 10
+   - 5 cgs (Scene 10 1-5) missing, I think these are for Maria in front of the window on the floor
+   - Book Cgs
